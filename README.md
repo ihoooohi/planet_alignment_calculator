@@ -2,6 +2,8 @@
 
 This Python program calculates when planets in our solar system will be aligned. It uses astronomical calculations to determine the positions of planets and identify when they form specific alignments.
 
+**This code is developed as a solution to Question 8 of the Survey for Master of Science (AI for Science) program.**
+
 ## Features
 
 - Calculates planetary positions using astronomical formulas
